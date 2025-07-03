@@ -13,7 +13,7 @@ import 'package:project_10/widgets/sign_up_hint_text.dart';
 
 class SignInPage extends StatefulWidget {
   const SignInPage({super.key});
-  static String id = 'SigninPage';
+  static String id = 'SignInPage';
 
   @override
   State<SignInPage> createState() => _SignInPageState();
